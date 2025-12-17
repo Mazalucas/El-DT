@@ -66,4 +66,4 @@ Si necesitas agregar configuración o documentación confidencial:
 ## 🤝 Contribuyendo
 ¡Damos la bienvenida a nuevos jugadores a la plantilla! Por favor, revisa la pestaña de *issues* y envía un Pull Request.
 ---
-*Construido con ❤️ por el Equipo de El DT*
+*Construido con ❤️ por @LucasMazalan & el Equipo de El DT*
